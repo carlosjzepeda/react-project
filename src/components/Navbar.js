@@ -26,9 +26,6 @@ const Navbar = () => {
   }, []);
   return (
     <ul className='navbar'>
-      <li ref={addToRefs} className='nav-item'>
-        PROJECTS
-      </li>
       <a href='mailto:cjzepedaa@gmail.com.'>
         <li href='mail:to' ref={addToRefs} className='nav-item'>
           CONTACT
