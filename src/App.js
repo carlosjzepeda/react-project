@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React from "react";
 import Navbar from "./components/Navbar";
 import Image from "./components/Image";
 import "./App.css";
